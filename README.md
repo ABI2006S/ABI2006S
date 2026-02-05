@@ -1,15 +1,15 @@
-<h1 align="center">Hey Im Abin Varughese John 👋 What's up?</h1>
+<h1 align="center">Hey Im Abin Varughese John👋 What's up?</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student;Full-Stack+Developer;Cybersecurity+Enthusiast;CTF+Player+%7C+Hackathon+Builder;Vibe+Coding+in+Progress+⚡" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=B.Tech+Computer+Science+Student;Full-Stack+Developer;Cybersecurity+Enthusiast;CTF+Player+%7C+Hackathon+Builder;Vibe+Coding+in+Progress+⚡" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="developer coding gif"/>
 </p>
 
 <h3 align="center">
-An improving Full-Stack Developer • Cybersecurity Enthusiast • Vibecoder ⚡
+🚀 Improving Full-Stack Developer • 🔐 Cybersecurity Enthusiast • ⚡ Vibecoder
 </h3>
 
 ---
@@ -19,64 +19,56 @@ An improving Full-Stack Developer • Cybersecurity Enthusiast • Vibecoder ⚡
 🎓 **B.Tech Computer Science & Engineering**  
 🏫 *Mar Baselios Christian College of Engineering and Technology*
 
-💻 Passionate **Full-Stack Developer** building modern, scalable, and secure applications  
-🔐 **Cybersecurity student** exploring ethical hacking, CTFs & real-world vulnerabilities  
-🚀 Love **vibe-coding** — fast, focused, and creative  
+💻 Passionate **Full-Stack Developer** building modern, scalable & secure applications  
+🔐 **Cybersecurity student** exploring ethical hacking, CTFs & vulnerabilities  
+🚀 Love **vibe-coding** — fast, creative, and experimental  
 🏆 Participated in **multiple Hackathons & CTF competitions**
 
-> I break things to understand them — then rebuild them better 🔍
+> I break systems to understand them — then rebuild them stronger 🔍
 
 ---
 
-## 🛠️ Languages & Core Skills
+## 🧠 Languages & Core Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
 
-## 🌐 Frontend Stack
+## 🌐 Frontend Development
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-1E90FF?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-✔ Modern UI/UX  
-✔ Responsive Design  
-✔ Component-driven architecture  
+✔ Clean UI/UX  
+✔ Responsive layouts  
+✔ Component-driven design  
 
 ---
 
-## ⚙️ Backend Stack
+## ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-2ECC71?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  logoColor=white"/>
 </p>
-
-✔ REST APIs  
-✔ Secure architecture  
-✔ Scalable backend systems  
 
 ---
 
-## 🗄️ Databases & Backend Services
+## 🗄️ Databases & Services
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
@@ -85,42 +77,36 @@ An improving Full-Stack Developer • Cybersecurity Enthusiast • Vibecoder ⚡
 ## ☁️ Cloud & DevOps
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
 </p>
-
-✔ Cloud deployment  
-✔ API design  
-✔ Scalable architectures  
-
----
 
 ## 🔐 Cybersecurity Toolkit
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 </p>
 
 - Web security fundamentals  
 - Ethical hacking & vulnerability analysis  
 - Capture The Flag (CTF) challenges  
-- Attack & defense mindset  
+- Attacker & defender mindset  
 
 ---
 
 ## 🧠 What I’m Currently Doing
 
-- 📚 Improving **full-stack system design**
+- 📚 Strengthening **full-stack system design**
 - 🔐 Practicing **CTFs & security labs**
-- ⚡ Learning **performance & scalability**
-- 🧪 Building projects that mix **security + UX**
+- ⚡ Learning **performance optimization**
+- 🧪 Building **security + UX focused projects**
 
 ---
 
 ## 🏆 Hackathons & CTFs
 
 - 🧩 University & community hackathons  
-- 🏴‍☠️ Active CTF participant  
-- 🔍 Hands-on security problem solving  
+- 🏴‍☠️ Active CTF competitor  
+- 🔍 Real-world problem solving  
 
 ---
 
@@ -153,3 +139,4 @@ Build fast.
 Hack ethically.
 Learn deeply.
 Ship responsibly.
+
