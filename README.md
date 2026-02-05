@@ -59,7 +59,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-2ECC71?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  logoColor=white"/>
+ 
 </p>
 
 ---
@@ -70,14 +70,6 @@
   <img src="https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
----
-
-## ☁️ Cloud & DevOps
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
 </p>
 
 ## 🔐 Cybersecurity Toolkit
