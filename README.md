@@ -1,10 +1,6 @@
 <h1 align="center">Hey Im Abin Varughese John👋 What's up?</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=B.Tech+Computer+Science+Student;Full-Stack+Developer;Cybersecurity+Enthusiast;CTF+Player+%7C+Hackathon+Builder;Vibe+Coding+in+Progress+⚡" />
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="developer coding gif"/>
 </p>
 
