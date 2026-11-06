@@ -86,12 +86,11 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ABI2006S/ABI2006S/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/ABI2006S/ABI2006S/output/github-contribution-grid-snake-dark.svg?v=2"
+    alt="Red and Gold GitHub Contribution Snake"
     width="100%"
   />
 </p>
-
 <h3 align="center">
   <i>I'd Win!!!! 🚀</i>
 </h3>
