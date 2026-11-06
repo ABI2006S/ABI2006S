@@ -6,8 +6,6 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="Developer coding animation"/>
 </p>
 
----
-
 ## 👨‍🎓 About Me
 
 🎓 **B.Tech Computer Science & Engineering**  
@@ -19,7 +17,6 @@
 - 🌐 **Open-Source enthusiast** interested in exploring projects, contributing to communities & building together.
 - 🚀 Curious learner who loves experimenting with new technologies and turning ideas into reality.
 
----
 
 ## 🧠 Languages & Programming
 
@@ -31,8 +28,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
-
----
 
 ## 🌐 Frontend Development
 
@@ -79,8 +74,6 @@
 - 🚩 Capture The Flag (CTF) challenges
 - ⚡ Exploring security tools and techniques
 
----
-
 ## 🤖 AI & Machine Learning
 
 - 📚 Strengthening Machine Learning fundamentals
@@ -88,16 +81,12 @@
 - 🐍 Practicing Python for data science and ML
 - 🔬 Experimenting with models and AI-powered applications
 
----
-
 ## 🌱 Open Source
 
 - Exploring interesting open-source projects.
 - Learning how to collaborate through Git and GitHub.
 - Interested in contributing to developer tools, AI & cybersecurity projects.
 - Believing in learning, sharing and building together.
-
----
 
 ## 🧠 What I'm Currently Doing
 
@@ -108,9 +97,6 @@
 - 🧪 Building **security-focused and user-friendly projects**
 - 🌐 Exploring **open-source contributions**
 
----
-
-## 🐍 Watch My Contributions Get Eaten!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
