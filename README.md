@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Abin Varughese John!
-
-<h1 align="center">Hey, I'm Abin Varughese John 👋</h1>
-
-<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | AI & ML Explorer</h3>
+<h1 align="center">
+  <marquee behavior="alternate" scrollamount="5">
+    Hey, I'm Abin Varughese John 👋
+  </marquee>
+</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="Developer coding animation"/>
