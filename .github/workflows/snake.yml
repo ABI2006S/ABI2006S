@@ -17,15 +17,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Red & Gold Snake
+      - name: Generate Red and Gold Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ABI2006S
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23E63946&color_dots=%23FFF3B0%2C%23FFD700%2C%23F9A602%2C%23E63946%2C%238B0000
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23E63946&color_dots=%23FFF3B0%2C%23FFD700%2C%23F9A602%2C%23E63946%2C%238B0000
+            dist/snake-red-gold.svg?color_snake=#E63946&color_dots=#161B22,#FFF3B0,#FFD700,#F9A602,#B8860B
 
-      - name: Push Snake to output branch
+      - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
