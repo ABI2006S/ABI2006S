@@ -6,18 +6,19 @@
 <p align="center">
   <img src="https://media.giphy.com/media/OlPQEdkE7eOdZ22Ib4/giphy.gif"
        width="420"
-       alt="Tony Stark Iron Man animation"/>
+       alt="Iron Man animation"/>
 </p>
+
 ## 👨‍🎓 About Me
-🎓 **B.Tech Computer Science & Engineering**  
-🏫 Mar Baselios Christian College of Engineering and Technology
-- 💻 Loves developing **Full-Stack Applications**.
+<p align="center">
+  🎓 <strong>B.Tech Computer Science & Engineering</strong><br/>
+  🏫 Mar Baselios Christian College of Engineering and Technology
+- 💻 Love developing **Full-Stack Applications**.
 - 🤖 Interested in **AI & Machine Learning**.
-- 🔐 Loves exploring **Cybersecurity**, ethical hacking & pentesting.
+- 🔐 Love exploring **Cybersecurity**, ethical hacking & pentesting.
 - 🌐 Interested in **Open Source** and collaboration.
 - 🚀 Enjoy experimenting with new technologies and ideas.
-
-
+</p>
 ## 🧠 Languages & Programming
 
 <p align="center">
@@ -38,19 +39,11 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-- ✨ Clean and modern UI/UX
-- 📱 Responsive web design
-- 🧩 Component-driven architecture
-
----
-
 ## ⚙️ Backend Development
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
-
----
 
 ## 🗄️ Databases & Services
 
@@ -60,48 +53,40 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
----
-
 ## 🔐 Cybersecurity Toolkit
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
 
-- 🔍 Web application security fundamentals
-- 🛡️ Ethical hacking & penetration testing
-- 🧩 Vulnerability analysis and research
-- 🚩 Capture The Flag (CTF) challenges
-- ⚡ Exploring security tools and techniques
-
 ## 🤖 AI & Machine Learning
 
-- 📚 Strengthening Machine Learning fundamentals
-- 🧠 Exploring AI concepts and intelligent systems
-- 🐍 Practicing Python for data science and ML
-- 🔬 Experimenting with models and AI-powered applications
+- 📚 Learning Machine Learning fundamentals.
+- 🧠 Exploring AI and intelligent systems.
+- 🐍 Practicing Python for Data Science.
+- 🔬 Experimenting with AI models and applications.
 
 ## 🌱 Open Source
 
-- Exploring interesting open-source projects.
-- Learning how to collaborate through Git and GitHub.
-- Interested in contributing to developer tools, AI & cybersecurity projects.
-- Believing in learning, sharing and building together.
+- 🌐 Exploring open-source projects.
+- 🤝 Learning collaborative development with Git & GitHub.
+- 💡 Interested in contributing to AI and cybersecurity projects.
+
 
 ## 🧠 What I'm Currently Doing
 
-- 📚 Strengthening **AI & ML fundamentals**
-- 💻 Improving **programming and problem-solving skills**
-- 🔐 Practicing **ethical hacking and web security**
-- ⚡ Exploring **performance optimization**
-- 🧪 Building **security-focused and user-friendly projects**
-- 🌐 Exploring **open-source contributions**
-
+- 📚 Strengthening **AI & ML fundamentals**.
+- 💻 Improving **programming and problem-solving skills**.
+- 🔐 Practicing **ethical hacking and web security**.
+- ⚡ Exploring **performance optimization**.
+- 🧪 Building **security-focused applications**.
+- 🌐 Exploring **open-source contributions**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+       alt="GitHub contribution snake animation"/>
 </p>
 
-<p align="center">
+<h3 align="center">
   <i>I'd Win!!!! 🚀</i>
-</p>
+</h3>
