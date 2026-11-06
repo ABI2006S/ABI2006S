@@ -1,6 +1,7 @@
-<h1 align="center">
+ <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=6000&pause=2000&color=E63946&center=true&vCenter=true&repeat=false&width=750&lines=Hey%2C+I'm+Abin+Varughese+John..."
-       alt="Hey, I'm Abin Varughese John..." />
+       alt="Hey, I'm Abin Varughese John..."
+       width="100%" />
 </h1>
 
 <p align="center">
@@ -8,21 +9,26 @@
        width="420"
        alt="Iron Man animation"/>
 </p>
-## <strong>👨‍🎓 About Me</strong><br/>
 
+---
 
-<p>
+## <strong>👨‍🎓 About Me</strong>
+
+<p align="center">
   🎓 <strong>B.Tech Computer Science & Engineering</strong><br/>
   🏫 Mar Baselios Christian College of Engineering and Technology
 </p>
 
- - 💻 Love developing <strong>Full-Stack Applications</strong>.<br/>
- - 🤖 Interested in <strong>AI & Machine Learning</strong>.<br/>
- - 🔐 Love exploring <strong>Cybersecurity</strong>, ethical hacking & pentesting.<br/>
- - 🌐 Interested in <strong>Open Source</strong> and collaboration.<br/>
- - 🚀 Enjoy experimenting with new technologies and ideas.
+- 💻 Love developing <strong>Full-Stack Applications</strong>.
+- 🤖 Interested in <strong>AI & Machine Learning</strong>.
+- 🔐 Love exploring <strong>Cybersecurity</strong>, ethical hacking & pentesting.
+- 🌐 Interested in <strong>Open Source</strong> and collaboration.
+- 🚀 Enjoy experimenting with new technologies and ideas.
+
+---
 
 ## 🧠 Languages & Programming
+
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -31,6 +37,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
+
+---
 
 ## 🌐 Frontend Development
 
@@ -41,11 +49,15 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
+---
+
 ## ⚙️ Backend Development
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
+
+---
 
 ## 🗄️ Databases & Services
 
@@ -55,11 +67,15 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
+---
+
 ## 🔐 Cybersecurity Toolkit
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
+
+---
 
 ## 🤖 AI & Machine Learning
 
@@ -68,12 +84,15 @@
 - 🐍 Practicing Python for Data Science.
 - 🔬 Experimenting with AI models and applications.
 
+---
+
 ## 🌱 Open Source
 
 - 🌐 Exploring open-source projects.
 - 🤝 Learning collaborative development with Git & GitHub.
 - 💡 Interested in contributing to AI and cybersecurity projects.
 
+---
 
 ## 🧠 What I'm Currently Doing
 
@@ -84,6 +103,8 @@
 - 🧪 Building **security-focused applications**.
 - 🌐 Exploring **open-source contributions**.
 
+---
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/ABI2006S/ABI2006S/output/snake-red-gold.svg"
@@ -91,6 +112,7 @@
     alt="Red and Gold GitHub Snake Animation"
   />
 </p>
+
 <h3 align="center">
   <i>I'd Win!!!! 🚀</i>
 </h3>
