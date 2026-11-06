@@ -1,9 +1,13 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&lines=Hey%2C+I'm+Abin+Varughese+John+%F0%9F%91%8B" alt="Hey, I'm Abin Varughese John" />
+ <h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=6000&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&lines=Hey%2C+I'm+Abin+Varughese+John+%F0%9F%91%8B" alt="Hey, I'm Abin Varughese John" />
 </h1>
+
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="Developer coding animation"/>
-</p> 
+</p>
+
+---
+
 ## 👨‍🎓 About Me
 
 🎓 **B.Tech Computer Science & Engineering**  
@@ -115,5 +119,3 @@
 <p align="center">
   <i>I'd Win!!!! 🚀</i>
 </p>
-
-
