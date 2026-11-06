@@ -1,5 +1,6 @@
- <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=6000&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&lines=Hey%2C+I'm+Abin+Varughese+John+%F0%9F%91%8B" alt="Hey, I'm Abin Varughese John" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=6000&pause=2000&color=E63946&center=true&vCenter=true&repeat=true&width=700&lines=Hey%2C+I'm+Abin+Varughese+John+%F0%9F%91%8B"
+       alt="Hey, I'm Abin Varughese John..." />
 </h1>
 
 <p align="center">
