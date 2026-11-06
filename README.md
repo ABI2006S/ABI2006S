@@ -3,9 +3,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="Developer coding animation"/>
+  <img src="https://media.giphy.com/media/OlPQEdkE7eOdZ22Ib4/giphy.gif"
+       width="420"
+       alt="Tony Stark Iron Man animation"/>
 </p>
-
 ## 👨‍🎓 About Me
 
 🎓 **B.Tech Computer Science & Engineering**  
