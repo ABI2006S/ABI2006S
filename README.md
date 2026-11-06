@@ -85,8 +85,11 @@
 - 🌐 Exploring **open-source contributions**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
-       alt="GitHub contribution snake animation"/>
+  <img
+    src="https://raw.githubusercontent.com/ABI2006S/ABI2006S/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
+  />
 </p>
 
 <h3 align="center">
