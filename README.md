@@ -10,10 +10,12 @@
 </p>
 ## <strong>👨‍🎓 About Me</strong><br/>
 
+
 <p>
   🎓 <strong>B.Tech Computer Science & Engineering</strong><br/>
   🏫 Mar Baselios Christian College of Engineering and Technology
 </p>
+
  - 💻 Love developing <strong>Full-Stack Applications</strong>.<br/>
  - 🤖 Interested in <strong>AI & Machine Learning</strong>.<br/>
  - 🔐 Love exploring <strong>Cybersecurity</strong>, ethical hacking & pentesting.<br/>
