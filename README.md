@@ -8,7 +8,7 @@
        width="420"
        alt="Iron Man animation"/>
 </p>
-## 👨‍🎓 About Me
+## <strong>👨‍🎓 About Me</strong><br/>
 
 <p>
   🎓 <strong>B.Tech Computer Science & Engineering</strong><br/>
