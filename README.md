@@ -9,15 +9,13 @@
        alt="Tony Stark Iron Man animation"/>
 </p>
 ## 👨‍🎓 About Me
-
 🎓 **B.Tech Computer Science & Engineering**  
 🏫 Mar Baselios Christian College of Engineering and Technology
-
-- 💻 Passionate **Full-Stack Developer** building modern, scalable & secure applications.
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**, experimenting with intelligent technologies.
-- 🔐 **Cybersecurity enthusiast** who loves ethical hacking, CTFs, penetration testing & vulnerability research.
-- 🌐 **Open-Source enthusiast** interested in exploring projects, contributing to communities & building together.
-- 🚀 Curious learner who loves experimenting with new technologies and turning ideas into reality.
+- 💻 Loves developing **Full-Stack Applications**.
+- 🤖 Interested in **AI & Machine Learning**.
+- 🔐 Loves exploring **Cybersecurity**, ethical hacking & pentesting.
+- 🌐 Interested in **Open Source** and collaboration.
+- 🚀 Enjoy experimenting with new technologies and ideas.
 
 
 ## 🧠 Languages & Programming
