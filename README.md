@@ -8,7 +8,6 @@
        width="420"
        alt="Iron Man animation"/>
 </p>
-
 ## 👨‍🎓 About Me
 
 <p align="center">
@@ -23,8 +22,10 @@
   🌐 Interested in <strong>Open Source</strong> and collaboration.<br/>
   🚀 Enjoy experimenting with new technologies and ideas.
 </p>
-## 🧠 Languages & Programming
 
+---
+
+## 🧠 Languages & Programming
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
