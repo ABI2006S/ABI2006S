@@ -106,7 +106,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/ABI2006S/ABI2006S/output/snake-red-gold.svg"
-    width="150%"
+    width="500%"
     alt="Red and Gold GitHub Snake Animation"
   />
 </p>
