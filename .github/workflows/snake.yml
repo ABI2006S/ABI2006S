@@ -15,14 +15,15 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Generate Red & Gold Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ABI2006S
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23E63946&color_dots=%23FFF3B0%2C%23FFD700%2CF9A602%2CE63946%2C8B0000
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23E63946&color_dots=%23FFF3B0%2C%23FFD700%2CF9A602%2CE63946%2C8B0000
+            dist/github-contribution-grid-snake.svg?color_snake=%23E63946&color_dots=%23FFF3B0%2C%23FFD700%2C%23F9A602%2C%23E63946%2C%238B0000
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23E63946&color_dots=%23FFF3B0%2C%23FFD700%2C%23F9A602%2C%23E63946%2C%238B0000
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
