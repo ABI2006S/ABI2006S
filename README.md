@@ -86,9 +86,9 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ABI2006S/ABI2006S/output/github-contribution-grid-snake-dark.svg?v=3"
-    alt="Red and Gold Contribution Snake"
+    src="https://raw.githubusercontent.com/ABI2006S/ABI2006S/output/snake-red-gold.svg"
     width="100%"
+    alt="Red and Gold GitHub Snake Animation"
   />
 </p>
 <h3 align="center">
