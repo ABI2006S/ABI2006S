@@ -1,12 +1,12 @@
- <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=6000&pause=2000&color=E63946&center=true&vCenter=true&repeat=false&width=750&lines=Hey%2C+I'm+Abin+Varughese+John..."
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=6000&pause=2000&color=E63946&center=true&vCenter=true&repeat=false&width=600&lines=Hey%2C+I'm+Abin+Varughese+John..."
        alt="Hey, I'm Abin Varughese John..."
-       width="100%" />
-</h1>
+       width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/OlPQEdkE7eOdZ22Ib4/giphy.gif"
-       width="420"
+       width="100%"
        alt="Iron Man animation"/>
 </p>
 
@@ -14,10 +14,8 @@
 
 ## <strong>👨‍🎓 About Me</strong>
 
-<p align="center">
-  🎓 <strong>B.Tech Computer Science & Engineering</strong><br/>
-  🏫 Mar Baselios Christian College of Engineering and Technology
-</p>
+🎓 **B.Tech Computer Science & Engineering**  
+🏫 Mar Baselios Christian College of Engineering and Technology
 
 - 💻 Love developing <strong>Full-Stack Applications</strong>.
 - 🤖 Interested in <strong>AI & Machine Learning</strong>.
